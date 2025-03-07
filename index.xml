@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>gorodok-go-2</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="gorodok-go-1"/>
   <readme>
     <ru>36508a5b7383abbb60a7fe27741d350666aeb2dab7b9e1a69d1ce24e411ec5a7</ru>
@@ -36,11 +36,11 @@
       <note number="1" values="58" ticks="92" durationTicks="32" ppq="96" velocity="0.598"/>
       <note number="2" values="188" ticks="128" durationTicks="33" ppq="96" velocity="0.638"/>
       <note number="3" values="288" ticks="169" durationTicks="38" ppq="96" velocity="0.717"/>
-      <note number="4" values="188" ticks="220" durationTicks="52" ppq="96" velocity="0.717"/>
-      <note number="5" values="288" ticks="254" durationTicks="41" ppq="96" velocity="0.717"/>
-      <note number="6" values="388" ticks="294" durationTicks="36" ppq="96" velocity="0.717"/>
-      <note number="7" values="288" ticks="336" durationTicks="49" ppq="96" velocity="0.717"/>
-      <note number="8" values="188" ticks="391" durationTicks="45" ppq="96" velocity="0.717"/>
+      <note number="4" values="188" ticks="220" durationTicks="30" ppq="96" velocity="0.717"/>
+      <note number="5" values="288" ticks="252" durationTicks="41" ppq="96" velocity="0.717"/>
+      <note number="6" values="388" ticks="299" durationTicks="36" ppq="96" velocity="0.717"/>
+      <note number="7" values="288" ticks="339" durationTicks="49" ppq="96" velocity="0.717"/>
+      <note number="8" values="188" ticks="397" durationTicks="45" ppq="96" velocity="0.717"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -50,9 +50,9 @@
     <tonalities>10</tonalities>
     <video name="25-gorodok-hor-hq-lesson-2_3.mp4" size="3132907" type="video/mp4" volume="1">81cb1cefb2f1d07cfeff3d073e42f5de1ef9946a6db2b14d020289109cb3b0f5</video>
     <notes>
-      <note number="1" values="78" ticks="52" durationTicks="29" ppq="96" velocity="0.724"/>
-      <note number="2" values="698" ticks="84" durationTicks="35" ppq="96" velocity="0.739"/>
-      <note number="3" values="68" ticks="123" durationTicks="48" ppq="96" velocity="0.719"/>
+      <note number="1" values="78" ticks="36" durationTicks="29" ppq="96" velocity="0.724"/>
+      <note number="2" values="698" ticks="70" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="68" ticks="108" durationTicks="48" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="4">
