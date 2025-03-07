@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>gorodok-go-2</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="gorodok-go-1"/>
   <readme>
     <ru>36508a5b7383abbb60a7fe27741d350666aeb2dab7b9e1a69d1ce24e411ec5a7</ru>
@@ -16,14 +16,14 @@
     <tonalities>10</tonalities>
     <video name="25-gorodok-hor-hq-lesson-2_1.mp4" size="2371637" type="video/mp4" volume="1">e70235c3d84e5ce493e0a58ba30b5cd82f062b440ba158cf313b547ad4220afc</video>
     <notes>
-      <note number="1" values="58" ticks="142" durationTicks="24" ppq="96" velocity="0.604"/>
-      <note number="2" values="188" ticks="166" durationTicks="24" ppq="96" velocity="0.639"/>
-      <note number="3" values="288" ticks="190" durationTicks="48" ppq="96" velocity="0.719"/>
-      <note number="4" values="188" ticks="239" durationTicks="46" ppq="96" velocity="0.719"/>
-      <note number="5" values="288" ticks="286" durationTicks="41" ppq="96" velocity="0.719"/>
-      <note number="6" values="188" ticks="326" durationTicks="43" ppq="96" velocity="0.719"/>
-      <note number="7" values="288" ticks="374" durationTicks="49" ppq="96" velocity="0.719"/>
-      <note number="8" values="188" ticks="420" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="1" values="58" ticks="143" durationTicks="33" ppq="96" velocity="0.604"/>
+      <note number="2" values="188" ticks="181" durationTicks="33" ppq="96" velocity="0.639"/>
+      <note number="3" values="288" ticks="216" durationTicks="36" ppq="96" velocity="0.719"/>
+      <note number="4" values="188" ticks="258" durationTicks="33" ppq="96" velocity="0.719"/>
+      <note number="5" values="288" ticks="294" durationTicks="41" ppq="96" velocity="0.719"/>
+      <note number="6" values="188" ticks="334" durationTicks="43" ppq="96" velocity="0.719"/>
+      <note number="7" values="288" ticks="379" durationTicks="49" ppq="96" velocity="0.719"/>
+      <note number="8" values="188" ticks="427" durationTicks="45" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -33,14 +33,14 @@
     <tonalities>10</tonalities>
     <video name="25-gorodok-hor-hq-lesson-2_2.mp4" size="2714284" type="video/mp4" volume="1">2135dc825af0a7d6034b1384e6dfcdec549f063d32dc319adb53771456cbf8f8</video>
     <notes>
-      <note number="1" values="58" ticks="96" durationTicks="32" ppq="96" velocity="0.598"/>
-      <note number="2" values="188" ticks="132" durationTicks="33" ppq="96" velocity="0.638"/>
-      <note number="3" values="288" ticks="173" durationTicks="38" ppq="96" velocity="0.717"/>
-      <note number="4" values="188" ticks="224" durationTicks="39" ppq="96" velocity="0.717"/>
-      <note number="5" values="288" ticks="264" durationTicks="41" ppq="96" velocity="0.717"/>
-      <note number="6" values="388" ticks="301" durationTicks="36" ppq="96" velocity="0.717"/>
-      <note number="7" values="288" ticks="333" durationTicks="49" ppq="96" velocity="0.717"/>
-      <note number="8" values="188" ticks="380" durationTicks="45" ppq="96" velocity="0.717"/>
+      <note number="1" values="58" ticks="92" durationTicks="32" ppq="96" velocity="0.598"/>
+      <note number="2" values="188" ticks="128" durationTicks="33" ppq="96" velocity="0.638"/>
+      <note number="3" values="288" ticks="169" durationTicks="38" ppq="96" velocity="0.717"/>
+      <note number="4" values="188" ticks="220" durationTicks="52" ppq="96" velocity="0.717"/>
+      <note number="5" values="288" ticks="254" durationTicks="41" ppq="96" velocity="0.717"/>
+      <note number="6" values="388" ticks="294" durationTicks="36" ppq="96" velocity="0.717"/>
+      <note number="7" values="288" ticks="336" durationTicks="49" ppq="96" velocity="0.717"/>
+      <note number="8" values="188" ticks="391" durationTicks="45" ppq="96" velocity="0.717"/>
     </notes>
   </exercise>
   <exercise number="3">
