@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>gorodok-go-2</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="gorodok-go-1"/>
   <readme>
     <ru>36508a5b7383abbb60a7fe27741d350666aeb2dab7b9e1a69d1ce24e411ec5a7</ru>
@@ -62,12 +62,12 @@
     <tonalities>10</tonalities>
     <video name="25-gorodok-hor-hq-lesson-2_4.mp4" size="2889168" type="video/mp4" volume="1">0a2dcbf1b8d2ba308dd962852b3008e452a4c2d7240def2709a448b27ea21aa0</video>
     <notes>
-      <note number="1" values="48" ticks="100" durationTicks="24" ppq="96" velocity="0.598"/>
-      <note number="2" values="58" ticks="124" durationTicks="24" ppq="96" velocity="0.638"/>
-      <note number="3" values="68" ticks="148" durationTicks="35" ppq="96" velocity="0.717"/>
-      <note number="4" values="68" ticks="197" durationTicks="46" ppq="96" velocity="0.717"/>
-      <note number="5" values="188" ticks="244" durationTicks="41" ppq="96" velocity="0.717"/>
-      <note number="6" values="188" ticks="285" durationTicks="43" ppq="96" velocity="0.717"/>
+      <note number="1" values="48" ticks="107" durationTicks="24" ppq="96" velocity="0.598"/>
+      <note number="2" values="58" ticks="131" durationTicks="24" ppq="96" velocity="0.638"/>
+      <note number="3" values="68" ticks="157" durationTicks="28" ppq="96" velocity="0.717"/>
+      <note number="4" values="68" ticks="205" durationTicks="37" ppq="96" velocity="0.717"/>
+      <note number="5" values="188" ticks="256" durationTicks="30" ppq="96" velocity="0.717"/>
+      <note number="6" values="188" ticks="303" durationTicks="31" ppq="96" velocity="0.717"/>
       <note number="7" values="58" ticks="333" durationTicks="49" ppq="96" velocity="0.717"/>
       <note number="8" values="38" ticks="381" durationTicks="45" ppq="96" velocity="0.717"/>
     </notes>
@@ -79,14 +79,14 @@
     <tonalities>10</tonalities>
     <video name="25-gorodok-hor-hq-lesson-2_5.mp4" size="2698963" type="video/mp4" volume="1">96b9f7fdcf8254e6e3b98f1756a0588390aa6d19ae9aeb54a43f465393a33b71</video>
     <notes>
-      <note number="1" values="28" ticks="100" durationTicks="24" ppq="96" velocity="0.591"/>
-      <note number="2" values="38" ticks="124" durationTicks="24" ppq="96" velocity="0.638"/>
-      <note number="3" values="48" ticks="148" durationTicks="35" ppq="96" velocity="0.717"/>
-      <note number="4" values="48" ticks="197" durationTicks="46" ppq="96" velocity="0.717"/>
-      <note number="5" values="58" ticks="244" durationTicks="41" ppq="96" velocity="0.717"/>
-      <note number="6" values="68" ticks="292" durationTicks="34" ppq="96" velocity="0.717"/>
-      <note number="7" values="68" ticks="340" durationTicks="49" ppq="96" velocity="0.717"/>
-      <note number="8" values="58" ticks="389" durationTicks="45" ppq="96" velocity="0.717"/>
+      <note number="1" values="28" ticks="104" durationTicks="24" ppq="96" velocity="0.591"/>
+      <note number="2" values="38" ticks="128" durationTicks="24" ppq="96" velocity="0.638"/>
+      <note number="3" values="48" ticks="152" durationTicks="35" ppq="96" velocity="0.717"/>
+      <note number="4" values="48" ticks="201" durationTicks="46" ppq="96" velocity="0.717"/>
+      <note number="5" values="58" ticks="248" durationTicks="41" ppq="96" velocity="0.717"/>
+      <note number="6" values="68" ticks="296" durationTicks="34" ppq="96" velocity="0.717"/>
+      <note number="7" values="68" ticks="344" durationTicks="49" ppq="96" velocity="0.717"/>
+      <note number="8" values="58" ticks="393" durationTicks="45" ppq="96" velocity="0.717"/>
     </notes>
   </exercise>
   <exercise number="6">
